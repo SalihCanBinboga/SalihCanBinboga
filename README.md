@@ -5,10 +5,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter Native WebView with MethodChannel
 - 🌱 I’m currently learning Audience Reality for Kotlin,Dart
 - 💬 Ask me about Flutter,Android,NodeJS,MySQL or PHP
-- 📫 How to reach me: ...
 
 
 <p align="center">
+<a target="_blank" href="https://github.com/salihcanbinboga"><img alt="My GitHub Profile" src="https://img.shields.io/github/followers/salihcanbinboga?label=FOLLOW&style=flat"></a>
 <img src="https://komarev.com/ghpvc/?username=salihcanbinboga&color=orange" alt="salihcanbinboga :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/salihcanbinboga/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@salihcanbinboga-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/salihcanbinboga/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-salihcanbinboga-lightblue?style=flat&logo=twitter"></a>
